@@ -2,4 +2,4 @@
 ____
 
 - [Object.is](/questions/Object/Object..is.md)
-- [Различия между var, let, const]()
+- [Различия между var, let, const](/questions/variables/difference.md)
