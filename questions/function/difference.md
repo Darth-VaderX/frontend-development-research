@@ -5,10 +5,10 @@ ____
 
 ```
 Function Declaration:
-    function Идентификатор ( Параметры ) { ТелоФункции }
+    function Идентификатор ( Параметры ) { Тело функции }
 
 Function Expression:
-    function Идентификатор (опционально)  ( Параметры ) { ТелоФункции }
+    function Идентификатор (опционально)  ( Параметры ) { Тело функции }
 ```
 
 ## Отличия:
@@ -26,5 +26,7 @@ Function Expression:
 
 Это основные отличия между Function Declaration и Function Expression в JavaScript. Каждый из них имеет свои особенности и применяется в различных сценариях.
 
+[Аргументы функции](./arguments.md)
 [Вопросы к собеседованию](../../README.md)<br>
-[Arrow Functions](./arrowFunction.md)
+[Динамическое количество параметров функции](./dynamicArguments.md)<br>
+[Arrow Functions](./arrowFunction.md)<br>

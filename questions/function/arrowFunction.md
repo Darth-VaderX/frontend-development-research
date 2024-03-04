@@ -38,5 +38,7 @@ let func1 = (num1, num2) => num1 * num2;
 let func1 = num => num1 ** 2;
 ```
 
+[Аргументы функции](./arguments.md)<br>
 [Вопросы к собеседованию](../../README.md)<br>
-[Разница между Function Expression и Function Declaration](./difference.md)
+[Динамическое количество параметров функции](./dynamicArguments.md)<br>
+[Разница между Function Expression и Function Declaration](./difference.md)<br>
