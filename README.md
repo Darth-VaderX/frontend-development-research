@@ -1,15 +1,23 @@
 # Вопросы для подготовки к собеседованию
 ____
 
-- [Временная мёртвая зона(TDZ)](./questions/variables/TDZ.md)
+### Переменные
+- [Временная мёртвая зона (TDZ)](./questions/variables/TDZ.md)
+- [Различия между var, let, const](/questions/variables/difference.md)
+- [Hoisting](./questions/variables/hoisting.md)
+- [Scope](./questions/variables/scope.md)
+
+### Функции
 - [Динамическое количество параметров функции](./questions/function/dynamicArguments.md)
 - [Параметры функции](./questions/function/arguments.md)
-- [Различия между var, let, const](/questions/variables/difference.md)
-- [Роль полифилов](./questions/polyfill/polyfill.md)
-- [Arrow Functions](./questions/function/arrowFunction.md)
-- [Function Expression vs Function Declaration](./questions/function/difference.md)
-- [Hoisting](./questions/variables/hoisting.md)
+- [Стрелочные функции (Arrow Functions)](./questions/function/arrowFunction.md)
+- [Выражение функции vs Объявление функции (Function Expression vs Function Declaration)](./questions/function/difference.md)
 - [Object.is](/questions/Object/Object.is.md)
-- [Scope](./questions/variables/scope.md)
-- [LexicalEnvironment](./questions/this/LexicalEnvironment.md)
-- [Execution Context](./questions/this/executionContext.md)
+
+### Полифиллы
+- [Роль полифиллов](./questions/polyfill/polyfill.md)
+
+### Контекст выполнения и окружение
+- [Контекст выполнения (Execution Context)](./questions/this/executionContext.md)
+- [Лексическое окружение (LexicalEnvironment)](./questions/this/LexicalEnvironment.md)
+- [Окружение переменных (Variable Environment)](./questions/this/variableEnvironment.md)
