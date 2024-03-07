@@ -11,3 +11,4 @@ ____
 - [Hoisting](./questions/variables/hoisting.md)
 - [Object.is](/questions/Object/Object.is.md)
 - [Scope](./questions/variables/scope.md)
+- [LexicalEnvironment](./questions/this/LexicalEnvironment.md)
