@@ -6,6 +6,7 @@ ____
 В ES6 существует одно различие между компонентами [LexicalEnvironment](./LexicalEnvironment.md) и VariableEnvironment. Оно заключается в том, что первое используется для хранения объявлений функций и переменных, объявленных с помощью ключевых слов `let` и `const`, а второе — только для хранения привязок переменных, объявленных с использованием ключевого слова `var`.
 
 [Вопросы к собеседованию](../../README.md)<br>
+[Как определить контекст this](this.md)<br>
 [Lexical Environment](./LexicalEnvironment.md)<br>
 [Execution Context](./executionContext.md)
 

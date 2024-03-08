@@ -12,12 +12,15 @@ ____
 - [Параметры функции](./questions/function/arguments.md)
 - [Стрелочные функции (Arrow Functions)](./questions/function/arrowFunction.md)
 - [Выражение функции vs Объявление функции (Function Expression vs Function Declaration)](./questions/function/difference.md)
+
+### Методы объекта
 - [Object.is](/questions/Object/Object.is.md)
 
 ### Полифиллы
 - [Роль полифиллов](./questions/polyfill/polyfill.md)
 
 ### Контекст выполнения и окружение
+- [Ключевое слово this, как определить контекст](./questions/this/this.md)
 - [Контекст выполнения (Execution Context)](./questions/this/executionContext.md)
 - [Лексическое окружение (LexicalEnvironment)](./questions/this/LexicalEnvironment.md)
 - [Окружение переменных (Variable Environment)](./questions/this/variableEnvironment.md)
