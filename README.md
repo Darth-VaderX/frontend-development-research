@@ -24,3 +24,4 @@ ____
 - [Контекст выполнения (Execution Context)](./questions/this/executionContext.md)
 - [Лексическое окружение (LexicalEnvironment)](./questions/this/LexicalEnvironment.md)
 - [Окружение переменных (Variable Environment)](./questions/this/variableEnvironment.md)
+- [Привязка контекста, метод call, apply, bind](./questions/this/methods.md)

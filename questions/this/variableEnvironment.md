@@ -7,6 +7,7 @@ ____
 
 [Вопросы к собеседованию](../../README.md)<br>
 [Как определить контекст this](this.md)<br>
+[Привязка контекста, метод call, apply, bind](./methods.md)<br>
+[Execution Context](./executionContext.md)<br>
 [Lexical Environment](./LexicalEnvironment.md)<br>
-[Execution Context](./executionContext.md)
 
