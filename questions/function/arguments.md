@@ -10,7 +10,7 @@ ____
 
 При передаче параметров по ссылке в функцию передается ссылка на исходные данные. Любые изменения, внесенные в параметр внутри функции, влияют на исходную переменную за пределами функции (объекты, массивы).
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Динамическое количество параметров функции](./dynamicArguments.md)<br>
-[Разница между Function Expression и Function Declaration](./difference.md)<br>
-[Arrow Functions](./arrowFunction.md)
+- [Вопросы к собеседованию](../../README.md)
+- [Динамическое количество параметров функции](./dynamicArguments.md)
+- [Разница между Function Expression и Function Declaration](./difference.md)
+- [Arrow Functions](./arrowFunction.md)

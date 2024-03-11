@@ -15,6 +15,8 @@ ____
 
 ### Методы объекта
 - [Object.is](/questions/Object/Object.is.md)
+- [Object.keys](./questions/Object/Object.keys.md)
+- [Object.values](./questions/Object/Object.values.md)
 
 ### Полифиллы
 - [Роль полифиллов](./questions/polyfill/polyfill.md)

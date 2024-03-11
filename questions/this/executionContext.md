@@ -27,8 +27,8 @@ ExecutionContext = {
 }
 ```
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Как определить контекст this](this.md)<br>
-[Привязка контекста, метод call, apply, bind](./methods.md)<br>
-[Lexical Environment](./LexicalEnvironment.md)<br>
-[Variable Environment](./executionContext.md)<br>
+- [Вопросы к собеседованию](../../README.md)
+- [Как определить контекст this](this.md)
+- [Привязка контекста, метод call, apply, bind](./methods.md)
+- [Lexical Environment](./LexicalEnvironment.md)
+- [Variable Environment](./executionContext.md)

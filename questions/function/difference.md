@@ -26,7 +26,7 @@ Function Expression:
 
 Это основные отличия между Function Declaration и Function Expression в JavaScript. Каждый из них имеет свои особенности и применяется в различных сценариях.
 
-[Аргументы функции](./arguments.md)
-[Вопросы к собеседованию](../../README.md)<br>
-[Динамическое количество параметров функции](./dynamicArguments.md)<br>
-[Arrow Functions](./arrowFunction.md)<br>
+- [Вопросы к собеседованию](../../README.md)
+- [Аргументы функции](./arguments.md)
+- [Динамическое количество параметров функции](./dynamicArguments.md)
+- [Arrow Functions](./arrowFunction.md)

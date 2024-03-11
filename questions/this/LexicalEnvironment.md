@@ -15,8 +15,8 @@ ____
 
 2. **Окружение функции** — в записи окружения, хранятся переменные, объявленные пользователем. Ссылка на внешнее окружение может указывать как на глобальный объект, так и на внешнюю по отношении к рассматриваемой функции функцию.
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Как определить контекст this](this.md)<br>
-[Привязка контекста, метод call, apply, bind](./methods.md)<br>
-[Execution Context](./executionContext.md)<br>
-[Variable Environment](./variableEnvironment.md)<br>
+- [Вопросы к собеседованию](../../README.md)
+- [Как определить контекст this](this.md)
+- [Привязка контекста, метод call, apply, bind](./methods.md)
+- [Execution Context](./executionContext.md)
+- [Variable Environment](./variableEnvironment.md)

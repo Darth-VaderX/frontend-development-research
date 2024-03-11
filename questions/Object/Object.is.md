@@ -17,4 +17,6 @@ console.log( Object.is(NaN, NaN) ); // true
 console.log( NaN === NaN );         // false
 ```
 
-[Вопросы к собеседованию](../../README.md)
+- [Вопросы к собеседованию](../../README.md)
+- [Object.keys](./Object.keys.md)
+- [Object.values](./Object.values.md)

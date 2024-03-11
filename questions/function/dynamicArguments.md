@@ -14,7 +14,7 @@ ___
 - Позволяет функции принимать переменное количество аргументов и представляет их в виде массива.
 - Это более удобный и прозрачный способ обработки переменного количества аргументов.
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Аргументы функции](./arguments.md)<br>
-[Разница между Function Expression и Function Declaration](./difference.md)<br>
-[Arrow Functions](./arrowFunction.md)
+- [Вопросы к собеседованию](../../README.md)
+- [Аргументы функции](./arguments.md)
+- [Разница между Function Expression и Function Declaration](./difference.md)
+- [Arrow Functions](./arrowFunction.md)

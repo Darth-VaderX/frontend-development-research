@@ -51,8 +51,8 @@ f2()() === window
 
 Когда функция используется как конструктор (с ключевым словом `new` ), `this` связано с создаваемым новым объектом.
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Привязка контекста, метод call, apply, bind](./methods.md)<br>
-[Execution Context](./executionContext.md)<br>
-[Lexical Environment](./LexicalEnvironment.md)<br>
-[Variable Environment](./variableEnvironment.md)<br>
+- [Вопросы к собеседованию](../../README.md)
+- [Привязка контекста, метод call, apply, bind](./methods.md)
+- [Execution Context](./executionContext.md)
+- [Lexical Environment](./LexicalEnvironment.md)
+- [Variable Environment](./variableEnvironment.md)

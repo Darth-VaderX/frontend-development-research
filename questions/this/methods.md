@@ -22,8 +22,8 @@ func.apply(context, [arg1, arg2])
 функция.bind(контекст, параметр1, параметр2...);
 ```
 
-[Вопросы к собеседованию](../../README.md)<br>
-[Ключевое слово this, как определить контекст](./methods.md)<br>
-[Execution Context](./executionContext.md)<br>
-[Lexical Environment](./LexicalEnvironment.md)<br>
-[Variable Environment](./variableEnvironment.md)<br>
+- [Вопросы к собеседованию](../../README.md)
+- [Ключевое слово this, как определить контекст](./methods.md)
+- [Execution Context](./executionContext.md)
+- [Lexical Environment](./LexicalEnvironment.md)
+- [Variable Environment](./variableEnvironment.md)
