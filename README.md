@@ -13,10 +13,11 @@ ____
 - [Стрелочные функции (Arrow Functions)](./questions/function/arrowFunction.md)
 - [Выражение функции vs Объявление функции (Function Expression vs Function Declaration)](./questions/function/difference.md)
 
-### Методы объекта
+### Object
 - [Object.is](/questions/Object/Object.is.md)
 - [Object.keys](./questions/Object/Object.keys.md)
 - [Object.values](./questions/Object/Object.values.md)
+- [Статические свойства и методы](./questions/Object/static.md)
 
 ### Полифиллы
 - [Роль полифиллов](./questions/polyfill/polyfill.md)
