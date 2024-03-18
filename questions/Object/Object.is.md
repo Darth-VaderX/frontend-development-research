@@ -20,3 +20,6 @@ console.log( NaN === NaN );         // false
 - [Вопросы к собеседованию](../../README.md)
 - [Object.keys](./Object.keys.md)
 - [Object.values](./Object.values.md)
+- [Object.defineProperty](./Object.defineProperty.md)
+- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
+- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)

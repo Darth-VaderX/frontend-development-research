@@ -17,7 +17,10 @@ ____
 - [Object.is](/questions/Object/Object.is.md)
 - [Object.keys](./questions/Object/Object.keys.md)
 - [Object.values](./questions/Object/Object.values.md)
+- [Object.defineProperty](./questions/Object/Object.defineProperty.md)
+- [Object.getOwnPropertyDescriptor](./questions/Object/Object.getOwnPropertyDescriptor.md)
 - [Статические свойства и методы](./questions/Object/static.md)
+- [Флаги и дескрипторы свойств](./questions/Object/flagsAndDescriptors.md)
 
 ### Полифиллы
 - [Роль полифиллов](./questions/polyfill/polyfill.md)

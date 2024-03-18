@@ -9,3 +9,6 @@ ____
 - [Object.is](./Object.is.md)
 - [Object.keys](./Object.keys.md)
 - [Object.values](Object.values.md)
+- [Object.defineProperty](./Object.defineProperty.md)
+- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
+- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)
