@@ -18,3 +18,5 @@ ___
 - [Аргументы функции](./arguments.md)
 - [Разница между Function Expression и Function Declaration](./difference.md)
 - [Arrow Functions](./arrowFunction.md)
+- [Каррирование](./currying.md)
+- [Мемоизация](./memoisation.md)

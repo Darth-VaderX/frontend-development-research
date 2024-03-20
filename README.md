@@ -1,6 +1,5 @@
 # Вопросы для подготовки к собеседованию
 ____
-
 ## Переменные
 - [Временная мёртвая зона (TDZ)](./questions/variables/TDZ.md)
 - [Различия между var, let, const](/questions/variables/difference.md)
@@ -12,6 +11,8 @@ ____
 - [Параметры функции](./questions/function/arguments.md)
 - [Стрелочные функции (Arrow Functions)](./questions/function/arrowFunction.md)
 - [Выражение функции vs Объявление функции (Function Expression vs Function Declaration)](./questions/function/difference.md)
+- [Каррирование функции](./questions/function/currying.md)
+- [Мемоизация функции](./questions/function/memoisation.md)
 
 ## Object
 - [Object.is](/questions/Object/Object.is.md)
@@ -30,7 +31,11 @@ ____
 - [Привязка контекста, метод call, apply, bind](./questions/this/methods.md)
 
 ## Document Object Model
-- [DOM дерево](./questions/dom/dom.md)
+- [DOM дерево](./questions/DOM/dom.md)
+
+## ООП
+- [Основные принципы ООП](./questions/oop/paradigm.md)
+- [Приватне и защищённые методы и свойства](./questions/oop/propertydef.md)
 
 ## Разное
 - [Роль полифиллов](./questions/polyfill/polyfill.md)

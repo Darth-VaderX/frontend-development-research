@@ -30,3 +30,5 @@ Function Expression:
 - [Аргументы функции](./arguments.md)
 - [Динамическое количество параметров функции](./dynamicArguments.md)
 - [Arrow Functions](./arrowFunction.md)
+- [Каррирование](./currying.md)
+- [Мемоизация](./memoisation.md)

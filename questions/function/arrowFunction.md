@@ -42,3 +42,5 @@ let func1 = num => num1 ** 2;
 - [Вопросы к собеседованию](../../README.md)
 - [Динамическое количество параметров функции](./dynamicArguments.md)
 - [Разница между Function Expression и Function Declaration](./difference.md)
+- [Каррирование](./currying.md)
+- [Мемоизация](./memoisation.md)
