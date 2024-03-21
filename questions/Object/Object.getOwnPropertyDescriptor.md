@@ -3,7 +3,7 @@ ____
 
 Object.getOwnPropertyDescriptor(obj, propertyName) - возвращает дескриптор свойства.
 
-**obj** - oбъект, из которого мы получаем информацию
+**obj** - oбъект, из которого мы получаем информацию<br>
 **propertyName** - имя свойства
 
 ```

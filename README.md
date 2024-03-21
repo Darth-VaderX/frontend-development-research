@@ -33,6 +33,11 @@ ____
 ## Document Object Model
 - [DOM дерево](./questions/DOM/dom.md)
 
+## Events
+- [Типы событий](./questions/event/types.md)
+- [Распространение события](./questions/event/propagation.md)
+- [Разница между preventDefault() и stopPropagation()](./questions/event/preventDefaultStopPropagation.md)
+
 ## ООП
 - [Основные принципы ООП](./questions/oop/paradigm.md)
 - [Приватне и защищённые методы и свойства](./questions/oop/propertydef.md)

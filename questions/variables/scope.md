@@ -21,3 +21,5 @@ ____
 
 - [Вопросы к собеседованию](../../README.md)
 - [Разница между var, let, const](./difference.md)
+- [Всплытие(hoisting)](./hoisting.md)
+- [Временная мёртвая зона(TDZ)](./TDZ.md)
