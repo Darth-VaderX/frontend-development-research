@@ -33,14 +33,18 @@ ____
 ## Document Object Model
 - [DOM дерево](./questions/DOM/dom.md)
 
-## Events
+## Event
 - [Типы событий](./questions/event/types.md)
 - [Распространение события](./questions/event/propagation.md)
-- [Разница между preventDefault() и stopPropagation()](./questions/event/preventDefaultStopPropagation.md)
+- [Разница между preventDefault и stopPropagation](./questions/event/preventDefaultStopPropagation.md)
+- [Event loop(cобытийный цикл)](./questions/event/eventLoop.md)
 
 ## ООП
 - [Основные принципы ООП](./questions/oop/paradigm.md)
 - [Приватне и защищённые методы и свойства](./questions/oop/propertydef.md)
+
+## Таймеры
+- [setTimeout и setInterval](./questions/timer/timer.md)
 
 ## Разное
 - [Роль полифиллов](./questions/polyfill/polyfill.md)
