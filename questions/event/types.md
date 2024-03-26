@@ -34,4 +34,5 @@ ____
 
 - [Вопросы к собеседованию](../../README.md)
 - [Распространение события](./propagation.md)
-- [Разница между preventDefault() и stopPropagation()](./preventDefaultStopPropagation.md)
+- [Разница между preventDefault и stopPropagation](./preventDefaultStopPropagation.md)
+- [Event loop](./eventLoop.md)

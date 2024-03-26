@@ -10,3 +10,4 @@ ____
 - [Вопросы к собеседованию](../../README.md)
 - [Типы событий](./types.md)
 - [Распространение события](./propagation.md)
+- [Event loop](./eventLoop.md)

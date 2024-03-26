@@ -15,3 +15,4 @@ ____
 - [Вопросы к собеседованию](../../README.md)
 - [Типы событий](./types.md)
 - [Разница между preventDefault() и stopPropagation()](./preventDefaultStopPropagation.md)
+- [Event loop](./eventLoop.md)
