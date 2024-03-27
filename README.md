@@ -47,4 +47,5 @@ ____
 - [setTimeout и setInterval](./questions/timer/timer.md)
 
 ## Разное
-- [Роль полифиллов](./questions/polyfill/polyfill.md)
+- [Роль полифиллов](./questions/other/polyfill.md)
+- [KISS, DRY, YAGNI](./questions/other/kissdryyagni.md)
