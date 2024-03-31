@@ -40,7 +40,7 @@ ____
 - [Event loop(cобытийный цикл)](./questions/event/eventLoop.md)
 
 ## ООП
-- [Основные принципы ООП](./questions/oop/paradigm.md)
+- [Основные принципы ООП](./questions/oop/principles.md)
 - [Приватне и защищённые методы и свойства](./questions/oop/propertydef.md)
 
 ## Таймеры
