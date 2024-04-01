@@ -20,7 +20,6 @@ ____
 - [Object.values](./questions/Object/Object.values.md)
 - [Object.defineProperty](./questions/Object/Object.defineProperty.md)
 - [Object.getOwnPropertyDescriptor](./questions/Object/Object.getOwnPropertyDescriptor.md)
-- [Статические свойства и методы](./questions/Object/static.md)
 - [Флаги и дескрипторы свойств](./questions/Object/flagsAndDescriptors.md)
 
 ## Контекст выполнения и окружение
@@ -42,6 +41,7 @@ ____
 ## ООП
 - [Основные принципы ООП](./questions/oop/principles.md)
 - [Приватне и защищённые методы и свойства](./questions/oop/propertydef.md)
+- [Статические свойства и методы](./questions/oop/static.md)
 
 ## Таймеры
 - [setTimeout и setInterval](./questions/timer/timer.md)
