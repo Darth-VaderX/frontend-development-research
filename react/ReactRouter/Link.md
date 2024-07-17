@@ -19,19 +19,19 @@
 **7. unstable_viewTransition?: boolean** - экспериментальное свойство, которое указывает, следует ли использовать переходы между представлениями _(view transitions)_ при переходе по ссылке. На данный момент это свойство нестабильно и может измениться в будущих версиях.
 
 ```javascript
-      <Link
-        to={{
-          pathname: "/profile",
-          search: "?filter=active",
-          hash: "#section-2",
-          state: { fromHome: true }
-        }}
-        replace
-        preventScrollReset={true}
-        relative="path"
-        unstable_flushSync={true}
-        unstable_viewTransition={true}
-      >
+<Link
+  to={{
+    pathname: "/profile",
+    search: "?filter=active",
+    hash: "#section-2",
+    state: { fromHome: true },
+  }}
+  replace
+  preventScrollReset={true}
+  relative="path"
+  unstable_flushSync={true}
+  unstable_viewTransition={true}
+/>
 ```
 
 - [Главное меню](../../README.md)
