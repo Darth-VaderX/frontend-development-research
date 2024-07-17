@@ -7,4 +7,6 @@
 - [Начало работы](./start.md)
 - [Link](./Link.md)
 - [NavLink](./NavLink.md)
+- [Navigate](./Navigate.md)
+- [useNavigate](./useNavigate.md)
 - [Loader](./loader.md)
