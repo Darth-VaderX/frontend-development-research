@@ -22,7 +22,7 @@ const navigate = useNavigate();
 - **unstable_flushSync (boolean)**: Оборачивает начальное обновление состояния для этой навигации в вызов ReactDOM.flushSync.
 - **unstable_viewTransition (boolean)**: Включает переход вида для этой навигации, оборачивая окончательное обновление состояния в document.startViewTransition().
 
-```javascript
+```
 navigate("/profile", {
   state: { fromHome: true },
   replace: true,
