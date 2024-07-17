@@ -44,14 +44,12 @@ const router = createBrowserRouter([
 
 3. **Добавление провайдера**
 
-```
-
+```javascript
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <RouterProvider router={router} />
   </React.StrictMode>
 );
-
 ```
 
 - [Главное меню](../../README.md)
