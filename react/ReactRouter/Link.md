@@ -19,7 +19,6 @@
 **7. unstable_viewTransition?: boolean** - экспериментальное свойство, которое указывает, следует ли использовать переходы между представлениями _(view transitions)_ при переходе по ссылке. На данный момент это свойство нестабильно и может измениться в будущих версиях.
 
 ```javascript
-{% raw %}
 <Link
   to={{
     pathname: "/profile",
@@ -33,7 +32,6 @@
   unstable_flushSync={true}
   unstable_viewTransition={true}
 />
-<!-- {% endraw %} -->
 ```
 
 - [Главное меню](../../README.md)

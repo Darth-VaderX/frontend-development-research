@@ -16,7 +16,6 @@
 - **replace (boolean)** - если указано, ссылка будет использовать history.replace() вместо history.push(), что изменяет текущий URL без добавления новой записи в историю.
 
 ```javascript
-{% raw %}
 <NavLink
   to={{
     pathname: "/profile",
@@ -28,7 +27,6 @@
 >
   Profile
 </NavLink>
-<!-- {% endraw %} -->
 ```
 
 - [Главное меню](../../README.md)
