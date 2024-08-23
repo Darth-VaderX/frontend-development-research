@@ -13,7 +13,7 @@
 - [В чём разница между загрузкой скриптов через async и defer?](asyncDefer.md)
 - [В чём разница между article и section?](sectionArticle.md)
 - [Зачем нужны data-атрибуты?](dataAttributes.md)
-- [В чём разница между <i>, <b> и <strone>, <em>](tags&b&i&em&strong.md)
+- [В чём разница между `<i>`, `<b>` и `<strone>`, `<em>`?](tags&b&i&em&strong.md)
 - [Какие различия у строчных и блочных элементов?](stringBlockElements.md)
 - [Вопросы по HTML](HTML.md)
 - [Главное меню](../README.md)

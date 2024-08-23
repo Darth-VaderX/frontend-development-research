@@ -19,7 +19,7 @@ article.dataset.columns;
 - [В чём разница между загрузкой скриптов через async и defer?](asyncDefer.md)
 - [Что такое семантика?](semantics.md)
 - [В чём разница между article и section?](sectionArticle.md)
-- [В чём разница между <i>, <b> и <strone>, <em>](tags&b&i&em&strong.md)
+- [В чём разница между `<i>`, `<b>` и `<strone>`, `<em>`?](tags&b&i&em&strong.md)
 - [Какие различия у строчных и блочных элементов?](stringBlockElements.md)
 - [Вопросы по HTML](HTML.md)
 - [Главное меню](../README.md)
