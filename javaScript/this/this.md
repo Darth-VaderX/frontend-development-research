@@ -1,43 +1,16 @@
 # Как определить контекст this
-____
+
+---
+
+`this` - cвойство [контекста выполнения кода](./executionContext.md)
 
 ## Global контекст
 
 В глобальном контексте выполнения (за пределами каких-либо функций) `this` ссылается на глобальный объект вне зависимости от режима (строгий или нестрогий).
 
-
-## Function контекст
-
-Простой вызов функции:
-
-```
-function f() {
-  return this;
-}
-
-f() === window; // В нестрогом режиме
-// true
-
-f() === undefined; // В строгом режиме
-// true
-
-```
 **Cтрелочная функция**
-```
-const obj = {
-    x: 1,
-    getThisGetter() {
-        console.log(this)
-      const getter = () => this;
-      return getter;
-    },
-  };
-const f1 = obj.getThisGetter();
-const f2 = obj.getThisGetter
 
-f1() === obj
-f2()() === window
-```
+Стрелочная функция получает родительский контекст
 
 **Метод объекта**
 
@@ -50,9 +23,12 @@ f2()() === window
 **В конструкторе**
 
 Когда функция используется как конструктор (с ключевым словом `new` ), `this` связано с создаваемым новым объектом.
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Привязка контекста, метод call, apply, bind](./methods.md)
-- [Execution Context](./executionContext.md)
-- [Lexical Environment](./LexicalEnvironment.md)
-- [Variable Environment](./variableEnvironment.md)
+
+---
+
+- [Какие есть методы управления значением this?](./methods.md)
+- [Что такое контекст выполнения (Execution Context)?](./executionContext.md)
+- [Что такое лексическое окружение (LexicalEnvironment)?](./LexicalEnvironment.md)
+- [Что такое окружение переменных (Variable Environment)?](./variableEnvironment.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

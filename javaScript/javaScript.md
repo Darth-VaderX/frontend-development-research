@@ -4,59 +4,74 @@
 
 ## Переменные
 
-- [Временная мёртвая зона (TDZ)](./variables/TDZ.md)
-- [Различия между var, let, const](./variables/difference.md)
-- [Hoisting](./variables/hoisting.md)
-- [Scope](./variables/scope.md)
+- [Какие отличия между var, let, const](./variables/difference.md)
+- [Что такое временная мёртвая зона (TDZ)](./variables/TDZ.md)
+- [Что такое hoisting](./variables/hoisting.md)
+- [Какие бывают области видимости?](./variables/scope.md)
+
+## Типы данных
+
+- [Какие существуют типы данных?](./dataType/dataType.md)
+- [Как работает неявное преобразование?](./dataType/typeConversion.md)
+
+## Операторы
+
+- [Какие сущестувют операторы?](./operators/operators.md)
 
 ## Функции
 
-- [Динамическое количество параметров функции](./function/dynamicArguments.md)
-- [Параметры функции](./function/arguments.md)
-- [Стрелочные функции (Arrow Functions)](./function/arrowFunction.md)
-- [Выражение функции vs Объявление функции (Function Expression vs Function Declaration)](./function/difference.md)
-- [Каррирование функции](./function/currying.md)
-- [Мемоизация функции](./function/memoisation.md)
-
-## Object
-
-- [Object.is](/Object/Object.is.md)
-- [Object.keys](./Object/Object.keys.md)
-- [Object.values](./Object/Object.values.md)
-- [Object.defineProperty](./Object/Object.defineProperty.md)
-- [Object.getOwnPropertyDescriptor](./Object/Object.getOwnPropertyDescriptor.md)
-- [Флаги и дескрипторы свойств](./Object/flagsAndDescriptors.md)
+- [Что такое аргументы функции и как они работают?](./function/arguments.md)
+- [Какая разница между оператором rest и _arguments_?](./function/dynamicArguments.md)
+- [Какая разница между Function Expression и Function Declaration?](./function/difference.md)
+- [Что такое стрелочные функции?](./function/arrowFunction.md)
+- [Что такое каррирование функции?](./function/currying.md)
+- [Что такое мемоизация функции?](./function/memoisation.md)
 
 ## Контекст выполнения и окружение
 
-- [Ключевое слово this, как определить контекст](./this/this.md)
-- [Контекст выполнения (Execution Context)](./this/executionContext.md)
-- [Лексическое окружение (LexicalEnvironment)](./this/LexicalEnvironment.md)
-- [Окружение переменных (Variable Environment)](./this/variableEnvironment.md)
-- [Привязка контекста, метод call, apply, bind](./this/methods.md)
+- [Что такое this, как определить его значение?](./this/this.md)
+- [Какие есть методы управления значением this?](./this/methods.md)
+- [Что такое контекст выполнения (Execution Context)?](./this/executionContext.md)
+- [Что такое лексическое окружение (LexicalEnvironment)?](./this/LexicalEnvironment.md)
+- [Что такое окружение переменных (Variable Environment)?](./this/variableEnvironment.md)
+
+## Object
+
+- [Что делает Object.is?](/Object/Object.is.md)
+- [Как получить ключи объекта?](./Object/Object.keys.md)
+- [Как получить свойства объекта?](./Object/Object.values.md)
+- [Что такое дескрипторы свойств?](./Object/flagsAndDescriptors.md)
+- [Как установить дескрипторы свойств?](./Object/Object.defineProperty.md)
+- [Как получить дескрипторы свойств?](./Object/Object.getOwnPropertyDescriptor.md)
+
+## Асинхронность
+
+- [Что такое промисы?](./async/promise.md)
+- [Расскажите о синтаксисе async/await](./async/asyncawait.md)
 
 ## Document Object Model
 
-- [DOM дерево](./DOM/dom.md)
-
-## Event
-
-- [Типы событий](./event/types.md)
-- [Распространение события](./event/propagation.md)
-- [Разница между preventDefault и stopPropagation](./event/preventDefaultStopPropagation.md)
-- [Event loop(cобытийный цикл)](./event/eventLoop.md)
+- [Что такое DOM дерево?](./DOM/dom.md)
+- [Какие существуют типы событий?](./event/types.md)
+- [Какая разница между preventDefault и stopPropagation?](./event/preventDefaultStopPropagation.md)
+- [Как работает распространение события?](./event/propagation.md)
+- [Что такое Event loop(cобытийный цикл) и как он работает?](./event/eventLoop.md)
 
 ## ООП
 
-- [Основные принципы ООП](./oop/principles.md)
-- [Приватне и защищённые методы и свойства](./oop/propertydef.md)
-- [Статические свойства и методы](./oop/static.md)
+- [Какие основные принципы ООП?](./oop/principles.md)
+- [Что такое статические свойства и методы?](./oop/static.md)
+- [Как обозначаются приватные и защищённые методы и свойства? В чём их разница?](./oop/propertydef.md)
 
 ## Таймеры
 
-- [setTimeout и setInterval](./timer/timer.md)
+- [Как устроены таймеры и как с ними рабоать?](./timer/timer.md)
 
-## Разное
+## Общие вопросы
 
-- [Роль полифиллов](./other/polyfill.md)
-- [KISS, DRY, YAGNI](./other/kissdryyagni.md)
+- [Что такое полифил и зачем он нужен?](./general/polifil.md)
+- [Принципы разработки. KISS, DRY, YAGNI](./general/principles.md)
+- [Разница между LocalStorage, SessionStorage и файлами cookie](./general/storageDifference.md)
+- [Что такое HTTP?](./general/http.md)
+- [Назовите основные методы HTTP?](./general/httpMethods.md)
+- [Что происходит, когда пользователь вводит адрес и нажимает enter?](./general/renderPage.md)

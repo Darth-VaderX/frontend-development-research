@@ -1,5 +1,12 @@
 # Метод Object.getOwnPropertyDescriptor
-____
+
+---
+
+## Object.getOwnPropertyDescriptors()
+
+Object.getOwnPropertyDescriptors(obj) - возвращает все собственные дескрипторы свойств данного объекта.
+
+---
 
 Object.getOwnPropertyDescriptor(obj, propertyName) - возвращает дескриптор свойства.
 
@@ -10,23 +17,22 @@ Object.getOwnPropertyDescriptor(obj, propertyName) - возвращает дес
 let descriptor = Object.getOwnPropertyDescriptor(Math, 'PI');
 
 alert( JSON.stringify(descriptor, null, 2 ) );
-/*
+
 {
   "value": 3.141592653589793,
   "writable": false,
   "enumerable": false,
   "configurable": false
 }
-*/
+
 ```
 
-## Object.getOwnPropertyDescriptors()
+---
 
-Object.getOwnPropertyDescriptors(obj) - возвращает все собственные дескрипторы свойств данного объекта.
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Object.keys](./Object.keys.md)
-- [Object.values](./Object.values.md)
-- [Object.is](./Object.is.md)
-- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)
-- [Object.defineProperty](./Object.defineProperty.md)
+- [Что делает Object.is?](/Object.is.md)
+- [Как получить ключи объекта?](./Object.keys.md)
+- [Как получить свойства объекта?](./Object.values.md)
+- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
+- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

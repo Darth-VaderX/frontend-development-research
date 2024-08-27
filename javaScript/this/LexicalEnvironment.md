@@ -1,5 +1,6 @@
 # Lexical Environment (лексическое окружение)
-____
+
+---
 
 Лексическое окружение - это термин, который используется для определения связи между идентификаторами и отдельными переменными и функциями на основе структуры лексической вложенности ECMAScript-кода.
 
@@ -40,9 +41,12 @@ FunctionExectionContext = {
   }
 }
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Как определить контекст this](this.md)
-- [Привязка контекста, метод call, apply, bind](./methods.md)
-- [Execution Context](./executionContext.md)
-- [Variable Environment](./variableEnvironment.md)
+
+---
+
+- [Что такое this, как определить его значение?](./this.md)
+- [Какие есть методы управления значением this?](./methods.md)
+- [Что такое контекст выполнения (Execution Context)?](./executionContext.md)
+- [Что такое окружение переменных (Variable Environment)?](./variableEnvironment.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

@@ -1,7 +1,9 @@
 # Флаги и дескрипторы свойств
-____
+
+---
 
 Дескрипторы - это специальные объекты, которые описывают поведение определенного свойства объекта и содержат следующие значения ("флаги"):
+
 1. **value** - значение свойства
 2. **writable** – если true, свойство можно изменить, иначе оно только для чтения
 3. **enumerable** – если true, свойство перечисляется в циклах, в противном случае циклы его игнорируют.
@@ -9,17 +11,21 @@ ____
 
 **configurable: false не даст изменить флаги свойства, а также не даст его удалить. При этом можно изменить значение свойства**
 
-Получить дескриптор свойства содержащий все флаги -  [Object.getOwnPropertyDescriptor()](./Object.getOwnPropertyDescriptor.md)
+Получить дескриптор свойства содержащий все флаги - [Object.getOwnPropertyDescriptor()](./Object.getOwnPropertyDescriptor.md)
 Изменить дескриптор свойства - [Object.defineProperty()](./Object.defineProperty.md)
 
 ## Глобальное запечатывание объекта
+
 1. **Object.preventExtensions(obj)** - запрещает добавлять новые свойства в объект
 2. **Object.seal(obj)** - запрещает добавлять/удалять свойства. Устанавливает configurable: false для всех существующих свойств
 3. **Object.freeze(obj)** - запрещает добавлять/удалять/изменять свойства. Устанавливает configurable: false, writable: false для всех существующих свойств
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Object.keys](./Object.keys.md)
-- [Object.values](./Object.values.md)
-- [Object.is](./Object.is.md)
-- [Object.defineProperty](./Object.defineProperty.md)
-- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
+
+---
+
+- [Что делает Object.is?](/Object.is.md)
+- [Как получить ключи объекта?](./Object.keys.md)
+- [Как получить свойства объекта?](./Object.values.md)
+- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
+- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

@@ -1,5 +1,6 @@
 # Object.keys()
-____
+
+---
 
 Статический метод, возвращает массив ключей объекта.
 
@@ -7,10 +8,13 @@ ____
 const obj = {'a': 1, 'b': 2, 'c': 3};
 console.log(Object.keys(obj)); // ['a', 'b', 'c']
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Object.is](./Object.is.md)
-- [Object.values](./Object.values.md)
-- [Object.defineProperty](./Object.defineProperty.md)
-- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
-- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)
+
+---
+
+- [Что делает Object.is?](/Object.is.md)
+- [Как получить свойства объекта?](./Object.values.md)
+- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
+- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
+- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

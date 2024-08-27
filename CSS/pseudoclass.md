@@ -39,6 +39,8 @@ img:not([alt])
 :where(header, main, footer) a  вместо header a, main a, footer a
 ```
 
+---
+
 - [Что такое CSS?](./CSSis.md)
 - [Что такое блочная модель?](./boxModel.md)
 - [Что такое псевдоэлементы?](./pseudoelement.md)

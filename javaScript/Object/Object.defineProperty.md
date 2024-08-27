@@ -1,5 +1,6 @@
 # метод Object.defineProperty
-____
+
+---
 
 Object.defineProperty(obj, propertyName, descriptor)
 
@@ -38,10 +39,13 @@ Object.defineProperties(user, {
   surname: { value: "Smith", writable: false },
 });
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Object.keys](./Object.keys.md)
-- [Object.values](./Object.values.md)
-- [Object.is](./Object.is.md)
-- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
-- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)
+
+---
+
+- [Что делает Object.is?](/Object.is.md)
+- [Как получить ключи объекта?](./Object.keys.md)
+- [Как получить свойства объекта?](./Object.values.md)
+- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
+- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

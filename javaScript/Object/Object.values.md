@@ -1,15 +1,20 @@
 # Object.values()
-____
+
+---
 
 Статический метод, возвращает массив значений объекта.
+
 ```
 const obj = {'a': 1, 'b': 2, 'c': 3};
 console.log(Object.values(obj)); // [1, 2, 3];
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Object.is](./Object.is.md)
-- [Object.keys](./Object.keys.md)
-- [Object.defineProperty](./Object.defineProperty.md)
-- [Object.getOwnPropertyDescriptor](./Object.getOwnPropertyDescriptor.md)
-- [Флаги и дескрипторы свойства](./flagsAndDescriptors.md)
+
+---
+
+- [Что делает Object.is?](/Object.is.md)
+- [Как получить ключи объекта?](./Object.keys.md)
+- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
+- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
+- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

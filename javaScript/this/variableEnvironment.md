@@ -1,5 +1,6 @@
 # Variable Environment (окружение переменных)
-____
+
+---
 
 **Окружение переменных** (Variable Environment) — это лексическое окружение, запись окружения которого хранит привязки, созданные посредством команд объявления переменных в текущем контексте выполнения.
 
@@ -15,7 +16,7 @@ function multiply(e, f) {
 }
 c = multiply(20, 30);
 
-GlobalExectionContext = {
+GlobalExecutionContext = {
   ThisBinding: <Global Object>,
   LexicalEnvironment: {
     EnvironmentRecord: {
@@ -37,13 +38,13 @@ GlobalExectionContext = {
   }
 }
 FunctionExectionContext = {
- 
+
   ThisBinding: <Global Object>,
   LexicalEnvironment: {
     EnvironmentRecord: {
-      Type: "Declarative",
-      // Данные о привязках для идентификаторов
-      Arguments: {0: 20, 1: 30, length: 2},
+      Type: "Declarative", // В таких записях хранятся локальные переменные и параметры, объявленные с помощью
+                           // let const, var или параметров функции.
+      Arguments: {0: 20, 1: 30, length: 2},  // Данные о привязках для идентификаторов функции
     },
     outer: <GlobalLexicalEnvironment>
   },
@@ -57,10 +58,12 @@ VariableEnvironment: {
   }
 }
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Как определить контекст this](this.md)
-- [Привязка контекста, метод call, apply, bind](./methods.md)
-- [Execution Context](./executionContext.md)
-- [Lexical Environment](./LexicalEnvironment.md)
 
+---
+
+- [Что такое this, как определить его значение?](./this.md)
+- [Какие есть методы управления значением this?](./methods.md)
+- [Что такое контекст выполнения (Execution Context)?](./executionContext.md)
+- [Что такое лексическое окружение (LexicalEnvironment)?](./LexicalEnvironment.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

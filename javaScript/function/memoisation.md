@@ -1,5 +1,7 @@
 # Мемоизация
-____
+
+---
+
 **Мемоизация** — сохранение результатов выполнения функций для предотвращения повторных вычислений. Это один из способов оптимизации, применяемый для увеличения скорости выполнения компьютерных программ. Функция мемоизации - это функция высшего порядка, в которой кеш хранится в замыкании.
 
 ```
@@ -27,10 +29,13 @@ const newAdd = memoizedAdd();
 console.log(newAdd(9)); // вычислено
 console.log(newAdd(9)); // взято из кэша
 ```
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Параметры функции](./arguments.md)
-- [Динамическое количество параметров функции](./dynamicArguments.md)
-- [Разница между Function Expression и Function Declaration](./difference.md)
-- [Arrow Functions](./arrowFunction.md)
-- [Каррирование](./currying.md)
+
+---
+
+- [Что такое аргументы функции и как они работают?](./arguments.md)
+- [Какая разница между оператором rest и _arguments_?](./dynamicArguments.md)
+- [Какая разница между Function Expression и Function Declaration?](./difference.md)
+- [Что такое стрелочные функции?](./arrowFunction.md)
+- [Что такое каррирование функции?](./currying.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)

@@ -1,8 +1,11 @@
 # Execution Context
-____
 
-Контекст выполнения (execution context) -  концепция, которая описывает окружение, в котором выполняется код. Содержит значение [this](./this.md), [LexicalEnvironment](LexicalEnvironment.md), [VariableEnvironment](./variableEnvironment.md)
+---
+
+Контекст выполнения (execution context) - концепция, которая описывает окружение, в котором выполняется код. Содержит значение [this](./this.md), [LexicalEnvironment](LexicalEnvironment.md), [VariableEnvironment](./variableEnvironment.md)
+
 ```
+// Создание контекста выполнения
 ExecutionContext = {
   ThisBinding = <this value>,
   LexicalEnvironment = { ... },
@@ -25,9 +28,12 @@ ExecutionContext = {
 Когда JS-движок начинает обрабатывать скрипт, он создаёт глобальный контекст выполнения и помещает его в текущий стек. При обнаружении команды вызова функции движок создаёт новый контекст выполнения для этой функции и помещает его в верхнюю часть стека.
 
 Движок выполняет функцию, контекст выполнения которой находится в верхней части стека. Когда работа функции завершается, её контекст извлекается из стека и управление передаётся тому контексту, который находится в предыдущем элементе стека.
-____
-- [Вопросы к собеседованию](../../README.md)
-- [Как определить контекст this](this.md)
-- [Привязка контекста, метод call, apply, bind](./methods.md)
-- [Lexical Environment](./LexicalEnvironment.md)
-- [Variable Environment](./executionContext.md)
+
+---
+
+- [Что такое this, как определить его значение?](./this.md)
+- [Какие есть методы управления значением this?](./methods.md)
+- [Что такое лексическое окружение (LexicalEnvironment)?](./LexicalEnvironment.md)
+- [Что такое окружение переменных (Variable Environment)?](./variableEnvironment.md)
+- [Вопросы по JavaScript](../javaScript.md)
+- [Главное меню](../../README.md)
