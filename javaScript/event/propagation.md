@@ -19,8 +19,8 @@
 ---
 
 - [Что такое DOM дерево?](../DOM/dom.md)
-- [Какие существуют типы событий?](./event/types.md)
-- [Какая разница между preventDefault и stopPropagation?](./event/preventDefaultStopPropagation.md)
-- [Что такое Event loop(cобытийный цикл) и как он работает?](./event/eventLoop.md)
+- [Какие существуют типы событий?](./types.md)
+- [Какая разница между preventDefault и stopPropagation?](./preventDefaultStopPropagation.md)
+- [Что такое Event loop(cобытийный цикл) и как он работает?](./eventLoop.md)
 - [Вопросы по JavaScript](../javaScript.md)
 - [Главное меню](../../README.md)

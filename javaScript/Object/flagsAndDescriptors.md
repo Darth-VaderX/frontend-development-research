@@ -12,6 +12,7 @@
 **configurable: false не даст изменить флаги свойства, а также не даст его удалить. При этом можно изменить значение свойства**
 
 Получить дескриптор свойства содержащий все флаги - [Object.getOwnPropertyDescriptor()](./Object.getOwnPropertyDescriptor.md)
+
 Изменить дескриптор свойства - [Object.defineProperty()](./Object.defineProperty.md)
 
 ## Глобальное запечатывание объекта
