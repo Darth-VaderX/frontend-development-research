@@ -23,10 +23,4 @@
 
 ---
 
-- [Что делает Object.is?](/Object.is.md)
-- [Как получить ключи объекта?](./Object.keys.md)
-- [Как получить свойства объекта?](./Object.values.md)
-- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
-- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

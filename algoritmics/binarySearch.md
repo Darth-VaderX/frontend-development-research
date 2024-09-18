@@ -26,3 +26,5 @@ const sortedArr = [5, 12, 23, 34, 45, 56, 67, 78, 89, 100];
 
 console.log(binarySearch(sortedArr, 12));
 ```
+
+- [Алгоритмы](./algoritmics.md)

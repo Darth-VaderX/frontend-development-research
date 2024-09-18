@@ -12,6 +12,4 @@
 
 ---
 
-- [Расскажите о синтаксисе async/await](./asyncawait.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

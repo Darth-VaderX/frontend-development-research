@@ -6,6 +6,4 @@
 
 ---
 
-- [Что такое промисы?](./promise.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

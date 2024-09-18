@@ -17,10 +17,4 @@
 
 ---
 
-- [Что такое аргументы функции и как они работают?](./arguments.md)
-- [Какая разница между Function Expression и Function Declaration?](./difference.md)
-- [Что такое стрелочные функции?](./arrowFunction.md)
-- [Что такое каррирование функции?](./currying.md)
-- [Что такое мемоизация функции?](./memoisation.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

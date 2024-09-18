@@ -10,10 +10,4 @@
 
 ---
 
-- [Что такое полифил и зачем он нужен?](./polifil.md)
-- [Принципы разработки. KISS, DRY, YAGNI](./principles.md)
-- [Разница между LocalStorage, SessionStorage и файлами cookie](./storageDifference.md)
-- [Что такое HTTP?](./http.md)
-- [Что происходит, когда пользователь вводит адрес и нажимает enter?](./renderPage.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

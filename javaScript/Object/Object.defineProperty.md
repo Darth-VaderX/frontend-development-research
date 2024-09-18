@@ -42,10 +42,4 @@ Object.defineProperties(user, {
 
 ---
 
-- [Что делает Object.is?](/Object.is.md)
-- [Как получить ключи объекта?](./Object.keys.md)
-- [Как получить свойства объекта?](./Object.values.md)
-- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
-- [Как получить дескрипторы свойств?](./Object.getOwnPropertyDescriptor.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

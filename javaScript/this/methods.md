@@ -32,9 +32,4 @@ func.apply(context, [arg1, arg2])
 
 ---
 
-- [Что такое this, как определить его значение?](./this.md)
-- [Что такое контекст выполнения (Execution Context)?](./executionContext.md)
-- [Что такое лексическое окружение (LexicalEnvironment)?](./LexicalEnvironment.md)
-- [Что такое окружение переменных (Variable Environment)?](./variableEnvironment.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

@@ -6,8 +6,4 @@
 
 ---
 
-- [Какие отличия между var, let, const](./difference.md)
-- [Что такое hoisting](./hoisting.md)
-- [Какие бывают области видимости?](./scope.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

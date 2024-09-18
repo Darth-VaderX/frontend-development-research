@@ -36,6 +36,4 @@
 
 ---
 
-- [Как работает неявное преобразование?](./typeConversion.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

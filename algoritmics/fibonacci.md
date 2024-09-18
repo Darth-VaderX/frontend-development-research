@@ -10,3 +10,5 @@ const fibonacci = (n) => {
 
 console.log(fibonacci(5));
 ```
+
+- [Алгоритмы](./algoritmics.md)

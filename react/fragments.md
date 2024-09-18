@@ -14,14 +14,4 @@
 
 ---
 
-- [Что такое React?](./reactIs.md)
-- [Что такое JSX?](./jsx.md)
-- [Что такое пропсы (props) в React?](./props.md)
-- [Что такое Virtual DOM, и как он работает?](./virtualDom.md)
-- [Что такое "состояние" (state) компонента в React?](./state.md)
-- [Что такое условный рендеринг в React?](./ifRender.md)
-- [Какие методы жизненного цикла компонентов вы знаете?](./classMethods.md)
-- [Какие основные различия между компонентами классов и функциональными компонентами в React?](./classVsFunc.md)
-- [Какие существуют хуки в React?](./hooks.md)
-- [Что такое HOC (Higher-Order Component) в React?](./hoc.md)
-- [Главное меню](../README.md)
+- [React](./react.md)

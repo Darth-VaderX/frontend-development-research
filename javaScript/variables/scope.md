@@ -22,8 +22,4 @@
 
 ---
 
-- [Какие отличия между var, let, const](./difference.md)
-- [Что такое временная мёртвая зона (TDZ)](./TDZ.md)
-- [Что такое hoisting](./hoisting.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

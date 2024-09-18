@@ -32,10 +32,4 @@ console.log(newAdd(9)); // взято из кэша
 
 ---
 
-- [Что такое аргументы функции и как они работают?](./arguments.md)
-- [Какая разница между оператором rest и _arguments_?](./dynamicArguments.md)
-- [Какая разница между Function Expression и Function Declaration?](./difference.md)
-- [Что такое стрелочные функции?](./arrowFunction.md)
-- [Что такое каррирование функции?](./currying.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

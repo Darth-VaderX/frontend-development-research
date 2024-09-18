@@ -22,3 +22,5 @@ const bubbleSort = (arr) => {
 const arr = [64, 34, 25, 12, 22, 11, 90];
 console.log(bubbleSort(arr));
 ```
+
+- [Алгоритмы](./algoritmics.md)

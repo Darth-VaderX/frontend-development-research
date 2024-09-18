@@ -41,9 +41,4 @@
 
 ---
 
-- [Что такое DOM дерево?](../DOM/dom.md)
-- [Какая разница между preventDefault и stopPropagation?](./preventDefaultStopPropagation.md)
-- [Как работает распространение события?](./propagation.md)
-- [Что такое Event loop(cобытийный цикл) и как он работает?](./eventLoop.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

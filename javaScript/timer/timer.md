@@ -17,4 +17,3 @@ clearTimeout(timer);
 ---
 
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

@@ -29,10 +29,4 @@ alert( JSON.stringify(descriptor, null, 2 ) );
 
 ---
 
-- [Что делает Object.is?](/Object.is.md)
-- [Как получить ключи объекта?](./Object.keys.md)
-- [Как получить свойства объекта?](./Object.values.md)
-- [Что такое дескрипторы свойств?](./flagsAndDescriptors.md)
-- [Как установить дескрипторы свойств?](./Object.defineProperty.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

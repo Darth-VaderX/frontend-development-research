@@ -31,10 +31,4 @@ Function Expression:
 
 ---
 
-- [Что такое аргументы функции и как они работают?](./arguments.md)
-- [Какая разница между оператором rest и _arguments_?](./dynamicArguments.md)
-- [Что такое стрелочные функции?](./arrowFunction.md)
-- [Что такое каррирование функции?](./currying.md)
-- [Что такое мемоизация функции?](./memoisation.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

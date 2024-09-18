@@ -50,10 +50,4 @@ let func1 = num => num1 ** 2;
 
 ---
 
-- [Что такое аргументы функции и как они работают?](./arguments.md)
-- [Какая разница между оператором rest и _arguments_?](./dynamicArguments.md)
-- [Какая разница между Function Expression и Function Declaration?](./difference.md)
-- [Что такое каррирование функции?](./currying.md)
-- [Что такое мемоизация функции?](./memoisation.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

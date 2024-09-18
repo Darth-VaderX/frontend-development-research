@@ -44,9 +44,4 @@ FunctionExectionContext = {
 
 ---
 
-- [Что такое this, как определить его значение?](./this.md)
-- [Какие есть методы управления значением this?](./methods.md)
-- [Что такое контекст выполнения (Execution Context)?](./executionContext.md)
-- [Что такое окружение переменных (Variable Environment)?](./variableEnvironment.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)

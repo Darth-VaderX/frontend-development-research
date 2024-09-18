@@ -39,9 +39,4 @@
 
 ---
 
-- [Что такое DOM дерево?](../DOM/dom.md)
-- [Какие существуют типы событий?](./types.md)
-- [Какая разница между preventDefault и stopPropagation?](./preventDefaultStopPropagation.md)
-- [Как работает распространение события?](./propagation.md)
 - [Вопросы по JavaScript](../javaScript.md)
-- [Главное меню](../../README.md)
