@@ -12,6 +12,7 @@
 - [Что такое фрагменты (fragments) в React?](./fragments.md)
 - [Что такое HOC (Higher-Order Component) в React?](./hoc.md)
 - [Какие существуют хуки в React?](./hooks.md)
+- [Мемоизация в React](./memo.md)
 - [useEffect и useLayoutEffect. Какая между ними разница?](./useEffectandLayout.md)
 - [Какая разница между useCallback, useMemo и memo?](./memo.md)
 - [Главное меню](../README.md)
