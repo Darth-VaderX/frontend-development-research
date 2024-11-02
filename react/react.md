@@ -9,6 +9,7 @@
 - [Что такое условный рендеринг в React?](./ifRender.md)
 - [Какие методы жизненного цикла компонентов вы знаете?](./classMethods.md)
 - [Какие основные различия между компонентами классов и функциональными компонентами в React?](./classVsFunc.md)
+- [Роль key в React?](./keys.md)
 - [Что такое фрагменты (fragments) в React?](./fragments.md)
 - [Что такое HOC (Higher-Order Component) в React?](./hoc.md)
 - [Какие существуют хуки в React?](./hooks.md)

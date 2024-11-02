@@ -7,4 +7,5 @@
 - [JavaScript](./javaScript/javaScript.md)
 - [TypeScript](./typeScript/typeScript.md)
 - [React](./react/react.md)
+- [Redux](./redux/redux.md)
 - [Алгоритмы](./algoritmics/algoritmics.md)
