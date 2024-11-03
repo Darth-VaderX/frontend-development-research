@@ -73,7 +73,7 @@
 - [Принципы разработки. KISS, DRY, YAGNI](./general/principles.md)
 - [Разница между LocalStorage, SessionStorage и файлами cookie](./general/storageDifference.md)
 - [Что такое HTTP?](./general/http.md)
-- [Назовите основные методы HTTP?](./general/httpMethods.md)
+- [Что такое REST?](./general/rest.md)
 - [Что происходит, когда пользователь вводит адрес и нажимает enter?](./general/renderPage.md)
 - [Что означают HTTP статусы?](./general/statusHttpCode.md)
 - [Главное меню](../README.md)
