@@ -74,6 +74,7 @@
 - [Разница между LocalStorage, SessionStorage и файлами cookie](./general/storageDifference.md)
 - [Что такое HTTP?](./general/http.md)
 - [Что такое REST?](./general/rest.md)
+- [SOLID](./general/solid.md)
 - [Что происходит, когда пользователь вводит адрес и нажимает enter?](./general/renderPage.md)
 - [Что означают HTTP статусы?](./general/statusHttpCode.md)
 - [Главное меню](../README.md)
